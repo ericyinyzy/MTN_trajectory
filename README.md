@@ -1,7 +1,7 @@
-**MTN**: Multimodal Transformer for Pedestrian Trajectory Prediction
+**MTN_trajectory**: Multimodal Transformer for Pedestrian Trajectory Prediction
 =======
 ![logo](https://github.com/ericyinyzy/MTN_trajectory/blob/main/logo/MTN.png)
-😎PyTorch(1.6.0) training, evaluating models for MTN.
+😎PyTorch(1.6.0) training, evaluating models for MTN_trajectory.
 For details see [Multimodal Transformer Networks for Pedestrian Trajectory Prediction](https://doi.org/10.24963/ijcai.2021/174) by Ziyi Yin, Ruijin Liu, Zhiliang Xiong, Zejian Yuan.
 
 ## Data Preparation
