@@ -1,6 +1,6 @@
 **MTN**: Multimodal Transformer for Pedestrian Trajectory Prediction
 =======
-
+![logo](https://github.com/ericyinyzy/MTN_trajectory/blob/main/logo/MTN.png)
 😎PyTorch(1.6.0) training, evaluating models for MTN.
 For details see [Multimodal Transformer Networks for Pedestrian Trajectory Prediction](https://doi.org/10.24963/ijcai.2021/174) by Ziyi Yin, Ruijin Liu, Zhiliang Xiong, Zejian Yuan.
 
@@ -129,14 +129,15 @@ On JAAD dataset, the MSE results are taken from 995 to 1030.
 
 ## Citation
 ```
-@InProceedings{MTN,
+@InProceedings{MTN_trajectory,
 author = {Ziyi Yin and Ruijin Liu and Zhiliang Xiong and Zejian Yuan},
 title = {Multimodal Transformer Networks for Pedestrian Trajectory Prediction},
 booktitle = {IJCAI},
 year = {2021}
 }
 ```
-
+## License
+MTN_trajectory is released under BSD 3-Clause License. Please see [LICENSE](LICENSE) file for more information.
 
 
 ## Acknowledgements
