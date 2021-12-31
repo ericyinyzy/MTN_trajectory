@@ -1,4 +1,4 @@
-**MTN_trajectory**: Multimodal Transformer for Pedestrian Trajectory Prediction
+**MTN_trajectory**: Multimodal Transformer Networks for Pedestrian Trajectory Prediction
 =======
 
 ![logo](https://github.com/ericyinyzy/MTN_trajectory/blob/main/logo/MTN.png)
