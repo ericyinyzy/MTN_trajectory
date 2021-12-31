@@ -19,9 +19,9 @@ Download and extract PIE dataset:
 ```
 git clone https://github.com/aras62/PIE.git
 mv PIE PIE_dataset
-unzip -d PIE_dataset/ PIE_dataset/annotations.zip
-unzip -d PIE_dataset/ PIE_dataset/annotations_attributes.zip
-unzip -d PIE_dataset/ PIE_dataset/annotations_vehicle.zip
+unzip -d PIE_dataset/PIE_dataset/annotations.zip
+unzip -d PIE_dataset/PIE_dataset/annotations_attributes.zip
+unzip -d PIE_dataset/PIE_dataset/annotations_vehicle.zip
 mv PIE_dataset/pie_data.py ./
 ```
 Download and extract [optical flow representations of PIE](https://drive.google.com/file/d/1RhsaPAAm90L8pZLJIrzd1VRN4_z09_na/view?usp=sharing) from google drive. 
